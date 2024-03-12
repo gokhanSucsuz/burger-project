@@ -1,0 +1,7 @@
+.nav-link {
+    color: lightyellow !important;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
